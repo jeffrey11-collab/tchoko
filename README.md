@@ -157,10 +157,6 @@ Pour toute question ou problème :
 - Consultez la documentation de React et Vite
 - Vérifiez que toutes les dépendances sont installées
 
-## 📄 Licence
-
-Ce projet est fourni à des fins éducatives et de démonstration.
-
 ---
 
 **Nom du dossier du projet** : `car-rental-website`
